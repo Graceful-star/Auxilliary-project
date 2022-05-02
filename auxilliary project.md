@@ -28,13 +28,12 @@ f. I created a file for the private key and i pasted the private key in it.
 g. I tried running some tests on the code I wrote
     `sudo groupadd developers`
     `getent group developers`
-
-    `./onboarding.sh`
+ `./onboarding.sh`
      ![Test run](images/image8.PNG)
       ![Test run](images/image9.PNG)
 
-**Complain:-** I was denied access
-         ![Access denied](images/image10.PNG)
+
+         
        
 
 
